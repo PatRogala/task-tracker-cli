@@ -2,6 +2,8 @@
 
 This is a simple command-line Todo List application written in Ruby.
 
+[Link to project on roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - Add new tasks
